@@ -1,4 +1,4 @@
-# Bases
+# Proyecto para aprender las bases de Angular y TypeScript
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
